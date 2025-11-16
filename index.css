@@ -1,0 +1,65 @@
+
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-image: url('FTZ Services (HTML, CSS)/FTZ Services (HTML, CSS)/bg.jpg');
+    background-size: cover;
+}
+.container
+{
+    width: 70%;
+}
+.services{
+  background-color: rgb(25, 25, 59);
+}
+ 
+.services-links a
+{
+  color: white;
+}
+p{
+   
+   
+    color: white;
+}
+.offer
+{
+    background-color: rgb(73, 123, 189);
+}
+.offer a{
+    padding: 2px;
+    color: white;
+     text-decoration:none;
+}
+.quote
+{
+   background-color: rgba(0, 0, 0, 0.5);
+    /* background-color: bl; */
+}
+.quote h1
+{
+    color: white;
+}
+.navBar
+{
+    border: 3px solid black;
+}
+.Services-img
+{
+    width: 100%;
+}
+.card-body a
+{
+    text-decoration:underline;
+    color: lightblue;
+}
+.footer
+{
+   
+    background-color: rgb(55, 55, 84);
+}
+.footer a
+{
+    color: white;
+}
